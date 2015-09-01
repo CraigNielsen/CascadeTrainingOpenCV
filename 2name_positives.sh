@@ -1,6 +1,5 @@
 #!/bin/bash
 #creates the positive images list for classification vector
 
-find /home/craig/QT/scripts/training/images/pos | grep ".png" > positives.txt
-
+find /home/craig/Pictures/training_images/pos | grep ".ppm" > positives.txt
 

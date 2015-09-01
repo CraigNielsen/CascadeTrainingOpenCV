@@ -1,4 +1,4 @@
 #!/bin/bash
 #creates negative images list file
-find /home/craig/QT/scripts/training/images/neg | grep ".png" > negatives.txt 
+find /home/craig/Pictures/training_images/neg | grep ".png" > negatives.txt
 
