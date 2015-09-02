@@ -45,6 +45,7 @@
 /home/craig/Pictures/training_images/neg/374.png
 /home/craig/Pictures/training_images/neg/2155.png
 /home/craig/Pictures/training_images/neg/1165.png
+/home/craig/Pictures/training_images/neg/Selection_012.png
 /home/craig/Pictures/training_images/neg/640.png
 /home/craig/Pictures/training_images/neg/84.png
 /home/craig/Pictures/training_images/neg/462.png
@@ -66,6 +67,7 @@
 /home/craig/Pictures/training_images/neg/1214.png
 /home/craig/Pictures/training_images/neg/262.png
 /home/craig/Pictures/training_images/neg/1135.png
+/home/craig/Pictures/training_images/neg/Selection_006.png
 /home/craig/Pictures/training_images/neg/408.png
 /home/craig/Pictures/training_images/neg/114.png
 /home/craig/Pictures/training_images/neg/1231.png
@@ -88,14 +90,18 @@
 /home/craig/Pictures/training_images/neg/1187.png
 /home/craig/Pictures/training_images/neg/1331.png
 /home/craig/Pictures/training_images/neg/31.png
+/home/craig/Pictures/training_images/neg/i1.png
 /home/craig/Pictures/training_images/neg/2384.png
 /home/craig/Pictures/training_images/neg/202.png
 /home/craig/Pictures/training_images/neg/348.png
+/home/craig/Pictures/training_images/neg/Selection_008.png
 /home/craig/Pictures/training_images/neg/388.png
+/home/craig/Pictures/training_images/neg/Selection_002.png
 /home/craig/Pictures/training_images/neg/1818.png
 /home/craig/Pictures/training_images/neg/1851.png
 /home/craig/Pictures/training_images/neg/886.png
 /home/craig/Pictures/training_images/neg/661.png
+/home/craig/Pictures/training_images/neg/t1.png
 /home/craig/Pictures/training_images/neg/2045.png
 /home/craig/Pictures/training_images/neg/817.png
 /home/craig/Pictures/training_images/neg/2146.png
@@ -110,6 +116,7 @@
 /home/craig/Pictures/training_images/neg/1212.png
 /home/craig/Pictures/training_images/neg/2242.png
 /home/craig/Pictures/training_images/neg/20259.png
+/home/craig/Pictures/training_images/neg/Selection_013.png
 /home/craig/Pictures/training_images/neg/1296.png
 /home/craig/Pictures/training_images/neg/58.png
 /home/craig/Pictures/training_images/neg/221.png
@@ -131,6 +138,8 @@
 /home/craig/Pictures/training_images/neg/234.png
 /home/craig/Pictures/training_images/neg/382.png
 /home/craig/Pictures/training_images/neg/484.png
+/home/craig/Pictures/training_images/neg/Selection_014.png
+/home/craig/Pictures/training_images/neg/Selection_004.png
 /home/craig/Pictures/training_images/neg/2259.png
 /home/craig/Pictures/training_images/neg/1919.png
 /home/craig/Pictures/training_images/neg/1528.png
@@ -156,6 +165,7 @@
 /home/craig/Pictures/training_images/neg/1909.png
 /home/craig/Pictures/training_images/neg/192.png
 /home/craig/Pictures/training_images/neg/67.png
+/home/craig/Pictures/training_images/neg/Selection_017.png
 /home/craig/Pictures/training_images/neg/399.png
 /home/craig/Pictures/training_images/neg/55.png
 /home/craig/Pictures/training_images/neg/10087.png
@@ -195,6 +205,7 @@
 /home/craig/Pictures/training_images/neg/258.png
 /home/craig/Pictures/training_images/neg/78.png
 /home/craig/Pictures/training_images/neg/1216.png
+/home/craig/Pictures/training_images/neg/'.png
 /home/craig/Pictures/training_images/neg/1918.png
 /home/craig/Pictures/training_images/neg/1519.png
 /home/craig/Pictures/training_images/neg/163.png
@@ -284,6 +295,7 @@
 /home/craig/Pictures/training_images/neg/1561.png
 /home/craig/Pictures/training_images/neg/286.png
 /home/craig/Pictures/training_images/neg/1811.png
+/home/craig/Pictures/training_images/neg/Selection_007.png
 /home/craig/Pictures/training_images/neg/384.png
 /home/craig/Pictures/training_images/neg/20283.png
 /home/craig/Pictures/training_images/neg/1225.png
@@ -310,12 +322,14 @@
 /home/craig/Pictures/training_images/neg/2243.png
 /home/craig/Pictures/training_images/neg/10150.png
 /home/craig/Pictures/training_images/neg/631.png
+/home/craig/Pictures/training_images/neg/Selection_016.png
 /home/craig/Pictures/training_images/neg/95.png
 /home/craig/Pictures/training_images/neg/10151.png
 /home/craig/Pictures/training_images/neg/1230.png
 /home/craig/Pictures/training_images/neg/20347.png
 /home/craig/Pictures/training_images/neg/753.png
 /home/craig/Pictures/training_images/neg/10099.png
+/home/craig/Pictures/training_images/neg/Selection_010.png
 /home/craig/Pictures/training_images/neg/1536.png
 /home/craig/Pictures/training_images/neg/53.png
 /home/craig/Pictures/training_images/neg/99.png
@@ -323,6 +337,7 @@
 /home/craig/Pictures/training_images/neg/1304.png
 /home/craig/Pictures/training_images/neg/20120.png
 /home/craig/Pictures/training_images/neg/14.png
+/home/craig/Pictures/training_images/neg/Selection_009.png
 /home/craig/Pictures/training_images/neg/687.png
 /home/craig/Pictures/training_images/neg/10242.png
 /home/craig/Pictures/training_images/neg/1118.png
@@ -348,6 +363,7 @@
 /home/craig/Pictures/training_images/neg/208.png
 /home/craig/Pictures/training_images/neg/1042.png
 /home/craig/Pictures/training_images/neg/344.png
+/home/craig/Pictures/training_images/neg/Selection_018.png
 /home/craig/Pictures/training_images/neg/7.png
 /home/craig/Pictures/training_images/neg/200.png
 /home/craig/Pictures/training_images/neg/1472.png
@@ -381,6 +397,7 @@
 /home/craig/Pictures/training_images/neg/532.png
 /home/craig/Pictures/training_images/neg/13.png
 /home/craig/Pictures/training_images/neg/2205.png
+/home/craig/Pictures/training_images/neg/Selection_015.png
 /home/craig/Pictures/training_images/neg/619.png
 /home/craig/Pictures/training_images/neg/829.png
 /home/craig/Pictures/training_images/neg/20271.png
@@ -447,6 +464,7 @@
 /home/craig/Pictures/training_images/neg/20180.png
 /home/craig/Pictures/training_images/neg/520.png
 /home/craig/Pictures/training_images/neg/1134.png
+/home/craig/Pictures/training_images/neg/Selection_005.png
 /home/craig/Pictures/training_images/neg/1163.png
 /home/craig/Pictures/training_images/neg/1110.png
 /home/craig/Pictures/training_images/neg/1101.png
@@ -473,6 +491,7 @@
 /home/craig/Pictures/training_images/neg/336.png
 /home/craig/Pictures/training_images/neg/487.png
 /home/craig/Pictures/training_images/neg/2221.png
+/home/craig/Pictures/training_images/neg/Selection_003.png
 /home/craig/Pictures/training_images/neg/496.png
 /home/craig/Pictures/training_images/neg/706.png
 /home/craig/Pictures/training_images/neg/2019.png
@@ -501,6 +520,7 @@
 /home/craig/Pictures/training_images/neg/505.png
 /home/craig/Pictures/training_images/neg/1189.png
 /home/craig/Pictures/training_images/neg/1893.png
+/home/craig/Pictures/training_images/neg/Selection_011.png
 /home/craig/Pictures/training_images/neg/1172.png
 /home/craig/Pictures/training_images/neg/350.png
 /home/craig/Pictures/training_images/neg/370.png
@@ -526,6 +546,8 @@
 /home/craig/Pictures/training_images/neg/1150.png
 /home/craig/Pictures/training_images/neg/358.png
 /home/craig/Pictures/training_images/neg/1154.png
+/home/craig/Pictures/training_images/neg/i2.png
+/home/craig/Pictures/training_images/neg/i3.png
 /home/craig/Pictures/training_images/neg/2295.png
 /home/craig/Pictures/training_images/neg/1314.png
 /home/craig/Pictures/training_images/neg/698.png

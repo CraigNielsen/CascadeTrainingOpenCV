@@ -1,7 +1,9 @@
 #!/bin/bash
 #this cleans the directory for a new training session
 
-rm ./positives.info
+rm ./positives.txt
 rm ./negatives.txt
+rm positives.vec
 rm -R ./data
-rm vector_positives.vec
+rm positives.vec
+mkdir data
