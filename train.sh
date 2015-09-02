@@ -11,4 +11,4 @@ if [ "$#" -ne 3 ];then
 else
 	echo training with $ftype .. 
 fi
-opencv_traincascade -data data -vec vector_positives.vec -bg negatives.txt -numPos "$1" -numNeg "$2" -numStages "$3" -w 30 -h 30 -precalcValBufSize 1024 -minHitrate 0.999 -featureType $ftype 
+opencv_traincascade -data data -vec positives.vec -bg negatives.txt -numPos "$1" -numNeg "$2" -numStages "$3" -w 20 -h 20 -precalcValBufSize 1024 -minHitrate 0.999 -featureType $ftype 

@@ -38,7 +38,7 @@ with open(filename,"r") as src:
 			dst.write("%s%s%s\n" % (prefix,line.rstrip('\n'),suffix))
 			linecount+=1
 
-linecount -+ 10
+linecount -= 10
 print str(linecount) +"\n"
 print str(linesinNeg)
 try:
